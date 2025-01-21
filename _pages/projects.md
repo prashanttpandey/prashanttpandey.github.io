@@ -13,6 +13,11 @@ permalink: /projects/
 * **PERFORMANCE ANALYSIS OF NON- ORTHOGONAL MULTIPLE ACCESS SYSTEM** .
   <a href="../files/NOMA_Final.pdf" target="_blank"> <br>                                 
 Files <br>
+
+* **AUTOMATED DRIP IRRIGATION SYSTEM** .
+  <a href="../files/NOMA_Final.pdf" target="_blank"> <br>                                 
+Files <br>
+
     
 ### Mini Projects <br>
 * Thyristor Firing Circuits
