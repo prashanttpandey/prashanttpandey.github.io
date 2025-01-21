@@ -30,6 +30,6 @@ Files <br>
    <a href="../files/DSP.pdf" target="_blank"> <br>
   Files <br>
 * Simulation of different modulation techniques <br>
-<a href="../files/ModulationSim.pdf" target="_blank"> <br>
+   <a href="../files/ModulationSim.pdf" target="_blank"> 
   Files <br>
   
