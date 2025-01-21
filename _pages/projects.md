@@ -23,7 +23,7 @@ Files <br>
 * Observation of packet loss and time taken for acknowledgment to reach the source end device in Packet Tracer
   <a href="../files/PacketTracerSim.pdf" target="_blank"> <br>
   Files <br>
-* Control Circuit Analysis ( Bode, Nyquist plot and PID Controllers)
+* Comparative Analysis of an Optical Link Communication System
    <a href="../files/Analysis on Bode Bot, Nyquist Plot and PID Controller.pdf" target="_blank"> <br>
   Files <br>
 * Distance Protection
