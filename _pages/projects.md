@@ -14,7 +14,7 @@ PERFORMANCE ANALYSIS OF NON- ORTHOGONAL MULTIPLE ACCESS SYSTEM
   <a href="../files/NOMA_Final.pdf" target="_blank"> <br>                                 
 Files <br>
 
-AUTOMATED DRIP IRRIGATION SYSTEM
+AUTOMATED DRIP IRRIGATION SYSTEM AND USING LORA MODULE FOR DATA TRANSFER
   <a href="../files/Drip Irrigation.pdf" target="_blank"> <br>                             
 Files <br>
 
