@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photo.png"
+  avatar           : "PP1.png"
   name             : "Prashant Pandey"
   pronouns         : # example: "she/her"  
   bio              : "Electrical and Electronics Engineer"
