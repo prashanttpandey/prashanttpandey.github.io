@@ -14,7 +14,7 @@ Currently, I am actively seeking for Ph.D. opportunities.<br>
 
 ### High Level School ( 10 +2), Science (2015 - 2017)<br>
 <div class="header" style="display: flex; align-items: center;">
-  <img src="../images/oxford logo.png" alt="logo" style="width:50px; margin-right: 10px;">
+  <img src="../images/oxford logo.jpg" alt="logo" style="width:50px; margin-right: 10px;">
   <span style="font-size: 18px;">Oxford, Nepal</span>
 </div>
 <hr>
