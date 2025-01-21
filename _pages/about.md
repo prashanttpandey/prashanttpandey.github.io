@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I’m **Prashant Pandey**, An engineer with a Bachelor of Engineering in the field of Communication Engineering from Kathmandu University, specialized in Wireless Technologies and Electronics. Experienced in the fields of GSM network design and implementation, use of VLANs each of these being among the core issues about Advanced Communication Systems and Integration in IoT.
+Hi, I’m **Prashant Pandey**, An engineer with a Bachelor of Engineering in the field of Electrial and Electronics specializing in Communication Engineering from Kathmandu University. Experienced in the fields of GSM network design and implementation, use of VLANs each of these being among the core issues about Advanced Communication Systems and Integration in IoT.
 
 My professional journey so far has been marked by working on the optimization of telecom networks and contributing to the deployment of novel solutions, such as AI-powered imaging systems, while at GE Healthcare. Proficient in tools like MATLAB, Simulink, C/C++, Optisystem and Packet Tracer, I believe in designing and implementing highly innovative systems that bridge efficiency and connectivity. 
 
