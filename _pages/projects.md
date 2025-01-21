@@ -24,7 +24,7 @@ Files <br>
   <a href="../files/PacketTracerSim.pdf" target="_blank"> <br>
   Files <br>
 * Comparative Analysis of an Optical Link Communication System
-   <a href="../files/Analysis on Bode Bot, Nyquist Plot and PID Controller.pdf" target="_blank"> <br>
+   <a href="../files/Opti System.pdf" target="_blank"> <br>
   Files <br>
 * Distance Protection
    <a href="../files/Distance Protection.pdf" target="_blank"> <br>
