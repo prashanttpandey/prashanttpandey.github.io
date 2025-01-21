@@ -10,7 +10,7 @@ Currently, I am actively seeking for Ph.D. opportunities.<br>
   <span style="font-size: 18px;">Kathmandu University, Nepal</span>
 </div>
 <hr>
-* Major Courses : Antenna and Propagation, Signal Processing, C/C++, Mobile Communication and GSM Technologies, Electromagnetic Wave Theory, Telecommunication Networks, Digital Communication 
+* Major Courses : Antenna and Propagation, Signal Processing, C/C++, Mobile Communication and GSM Technologies, Electromagnetic Wave Theory, Telecommunication Networks, Digital Communication, Engineering Project
 
 ### High Level School ( 10 +2), Science (2015 - 2017)<br>
 <div class="header" style="display: flex; align-items: center;">
