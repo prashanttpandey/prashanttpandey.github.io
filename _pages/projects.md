@@ -7,11 +7,11 @@ permalink: /projects/
 
 <span style="font-size: 25px; font-weight: bold;"> Academic Projects </span>
 <hr style="border: 0; height: 5px; background-color: green;">
-<span style="font-size: 14px;"><em>(Note: All reports are shortened, for detail reports, simulation files and codes, you can reach out to me !!)</em></span>
+<span style="font-size: 14px;"><em>(Note: You can find report attached in **files** for further discussion please contact me!)</em></span>
 <br>
 ### Thesis Project <br>
-* Microcontroller Driven MPPT System to Enhance Photovoltaic Efficiency: An Experimental Approach in Dhulikhel, Nepal.
-  <a href="../files/Mppt.pdf" target="_blank"> <br>
+* **PERFORMANCE ANALYSIS OF NON- ORTHOGONAL MULTIPLE ACCESS SYSTEM** .
+  <a href="../files/" target="_blank"> <br>
   Files <br>
     
 ### Mini Projects <br>
