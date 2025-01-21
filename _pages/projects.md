@@ -9,7 +9,7 @@ permalink: /projects/
 <hr style="border: 0; height: 5px; background-color: green;">
 <span style="font-size: 14px;"><em>(Note: You can find report attached in **files** for further discussion please contact me!)</em></span>
 <br>
-### Thesis Project <br>
+### Academic major Project <br>
 * **PERFORMANCE ANALYSIS OF NON- ORTHOGONAL MULTIPLE ACCESS SYSTEM** .
   <a href="../files/" target="_blank"> <br>
   Files <br>
