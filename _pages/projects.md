@@ -11,8 +11,8 @@ permalink: /projects/
 <br>
 ### Academic major Project <br>
 * **PERFORMANCE ANALYSIS OF NON- ORTHOGONAL MULTIPLE ACCESS SYSTEM** .
-  <a href="../files/ NOMA_Final.pdf" target="_blank"> <br>            
-  Files <br>
+  <a href="../files/NOMA_Final.pdf" target="_blank"> <br>                                 
+Files <br>
     
 ### Mini Projects <br>
 * Thyristor Firing Circuits
