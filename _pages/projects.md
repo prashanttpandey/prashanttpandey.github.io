@@ -10,12 +10,12 @@ permalink: /projects/
 <span style="font-size: 14px;"><em>(Note: You can find report attached in **files** for further discussion please contact me!)</em></span>
 <br>
 ### Academic major Project <br>
-* **PERFORMANCE ANALYSIS OF NON- ORTHOGONAL MULTIPLE ACCESS SYSTEM** .
+PERFORMANCE ANALYSIS OF NON- ORTHOGONAL MULTIPLE ACCESS SYSTEM
   <a href="../files/NOMA_Final.pdf" target="_blank"> <br>                                 
 Files <br>
 
-* **AUTOMATED DRIP IRRIGATION SYSTEM** .
-  <a href="../files/NOMA_Final.pdf" target="_blank"> <br>                                 
+AUTOMATED DRIP IRRIGATION SYSTEM
+  <a href="../files/Drip Irrigation.pdf" target="_blank">                              
 Files <br>
 
     
