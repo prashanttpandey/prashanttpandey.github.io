@@ -26,7 +26,7 @@ Files <br>
 * Comparative Analysis of an Optical Link Communication System
    <a href="../files/Opti System.pdf" target="_blank"> <br>
   Files <br>
-* Distance Protection
+* Digital Signal Processing
    <a href="../files/Distance Protection.pdf" target="_blank"> <br>
   Files <br>
 * Load Flow Analysis <br>
