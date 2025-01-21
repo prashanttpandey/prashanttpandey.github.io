@@ -20,8 +20,8 @@ Files <br>
 
     
 ### Mini Projects <br>
-* Thyristor Firing Circuits
-  <a href="../files/Thyristor Firing Circuits.pdf" target="_blank"> <br>
+* Observation of packet loss and time taken for acknowledgment to reach the source end device in Packet Tracer
+  <a href="../files/PacketTracerSim.pdf" target="_blank"> <br>
   Files <br>
 * Control Circuit Analysis ( Bode, Nyquist plot and PID Controllers)
    <a href="../files/Analysis on Bode Bot, Nyquist Plot and PID Controller.pdf" target="_blank"> <br>
